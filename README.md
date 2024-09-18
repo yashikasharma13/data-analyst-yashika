@@ -1,8 +1,8 @@
 # data-analyst-yashika
 Data Wrangling 
 Project Description: Data Wrangling for Customer Analytics at XYZ Company
-Project Title: Data Wrangling for Enhanced Customer Analytics at XYZ Company
-Objective: The primary goal of this project is to perform comprehensive data wrangling to prepare a robust dataset for customer analytics at XYZ Company. By cleaning, transforming, and consolidating data from various sources, the project aims to enhance the accuracy and usability of customer data for subsequent analysis and reporting.
+/Project Title: Data Wrangling for Enhanced Customer Analytics at XYZ Company
+/Objective: The primary goal of this project is to perform comprehensive data wrangling to prepare a robust dataset for customer analytics at XYZ Company. By cleaning, transforming, and consolidating data from various sources, the project aims to enhance the accuracy and usability of customer data for subsequent analysis and reporting.
 Background: XYZ Company has accumulated customer data from multiple channels, including sales transactions, customer service interactions, and marketing campaigns. However, this data is often inconsistent, incomplete, or fragmented, making it challenging to derive meaningful insights. Effective data wrangling will facilitate better decision-making and more targeted marketing strategies.
 Dataset: The data wrangling process will involve various datasets, including:
 •	Sales Data: Transaction records that include customer IDs, purchase amounts, product details, and timestamps.
