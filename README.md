@@ -1,6 +1,6 @@
 # data-analyst-yashika
 Objective:  
-</br> The main objective is to clean, transform, and consolidate data from various sources to create a comprehensive, accurate dataset. This dataset will help in customer analytics and enhance Company’s ability to derive actionable insights for marketing strategies and decision-making.
+The main objective is to clean, transform, and consolidate data from various sources to create a comprehensive, accurate dataset. This dataset will help in customer analytics and enhance Company’s ability to derive actionable insights for marketing strategies and decision-making.
 Background:  
 Company collects customer data through multiple channels such as sales transactions, customer service interactions, and marketing campaigns. However, this data is often fragmented, inconsistent, and incomplete, which hampers data analysis and strategy development. This project focuses on addressing these data issues through effective data wrangling techniques.
 Dataset Overview:
